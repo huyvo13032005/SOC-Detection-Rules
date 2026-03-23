@@ -34,4 +34,7 @@ process.name : "powershell.exe"
 
 * PowerShell Execution Detection
 * Encoded PowerShell Detection
+* Suspicious Parent Process Detection
+* Credential Dumping Detection
+* Data Exfiltration Detection
 
