@@ -30,3 +30,8 @@ MITRE: T1059.001
 
 Kibana Query:
 process.name : "powershell.exe"
+## Detection Rules
+
+* PowerShell Execution Detection
+* Encoded PowerShell Detection
+
