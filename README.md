@@ -15,6 +15,9 @@ Detection rules for SOC monitoring based on MITRE ATT&CK.
 * Suspicious Process Creation
 * Credential Dumping Detection
 * Data Exfiltration Detection
+## SOC Workflow
+
+See SOC-workflow.md for detection pipeline.
 
 ## Example Rule
 
